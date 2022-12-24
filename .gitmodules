@@ -1,0 +1,6 @@
+[submodule "pustaka-frontend"]
+	path = pustaka-frontend
+	url = git@github.com:gablooge/pustaka-frontend.git
+[submodule "pustaka-backend"]
+	path = pustaka-backend
+	url = git@github.com:gablooge/pustaka-backend.git
